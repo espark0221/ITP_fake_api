@@ -1,0 +1,68 @@
+{
+  "member": [
+    {
+      "id":  0,
+      "name": "이지은",
+      "member_id": "Lee",
+      "email": "Lee@naver.com",
+      "regi": "천호",
+      "phone_no": "010-1111-1111",
+      "receive_yn": "Y",
+      "company_nm": "idevel",
+      "company_no": "519-87-0291",
+      "company_form": "법인",
+      "representative_nm": "이미자" ,
+      "representative_no": "032-000-0026",
+      "representative_yn": "Y",
+      "profileUrl": "http://image.dongascience.com/Photo/2020/03/5bddba7b6574b95d37b6079c199d7101.jpg"
+    },
+    {
+      "id":  1,
+      "name": "박은솔",
+      "member_id": "Park",
+      "email": "Park@naver.com",
+      "regi": "하남",
+      "phone_no": "010-2222-2222",
+      "receive_yn": "Y",
+      "company_nm": "idevel",
+      "company_no": "519-87-0291",
+      "company_form": "법인",
+      "representative_nm": "이미자" ,
+      "representative_no": "032-000-0026",
+      "representative_yn": "N",
+      "profileUrl": "http://image.dongascience.com/Photo/2020/03/5bddba7b6574b95d37b6079c199d7101.jpg"
+    },
+    {
+      "id":  2,
+      "name": "송흥민",
+      "member_id": "Song",
+      "email": "Song@naver.com",
+      "regi": "USA",
+      "phone_no": "010-3333-3333",
+      "receive_yn": "Y",
+      "company_nm": "idevelA",
+      "company_no": "519-87-0291",
+      "company_form": "법인",
+      "representative_nm": "이미자" ,
+      "representative_no": "032-000-0026",
+      "representative_yn": "Y",
+      "profileUrl": "http://image.dongascience.com/Photo/2020/03/5bddba7b6574b95d37b6079c199d7101.jpg"
+    },
+    {
+      "id":  3,
+      "name": "윤지영",
+      "member_id": "jyyun",
+      "email": "jyyun@idevel.kr",
+      "regi": "하남",
+      "phone_no": "010-5744-6784",
+      "receive_yn": "N",
+      "company_nm": "idevel",
+      "company_no": "519-87-0291",
+      "company_form": "법인",
+      "representative_nm": "진경수 대표님" ,
+      "representative_no": "070-8233-9145",
+      "representative_yn": "N",
+      "profileUrl": "http://www.urbanbrush.net/web/wp-content/uploads/edd/2019/03/urbanbrush-20190308005551276591.png"
+    }
+  ]
+}
